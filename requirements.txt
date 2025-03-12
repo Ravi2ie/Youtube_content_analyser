@@ -1,12 +1,7 @@
-re
-os
-streamlit
-requests
-json
-pytube
-youtube-transcript-api
+youtube_transcript_api
 textblob
 wordcloud
-matplotlib
 seaborn
-collections
+sumy
+pytube
+googletrans
