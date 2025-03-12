@@ -1,0 +1,12 @@
+re
+os
+streamlit
+requests
+json
+pytube
+youtube-transcript-api
+textblob
+wordcloud
+matplotlib
+seaborn
+collections
